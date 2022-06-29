@@ -1,3 +1,7 @@
-System engineering devops
-Find here the main shell commands you can directly run for different purposes
-
+# this project is for learning :
+- Shell iitialization files
+- Variables
+- Expansions
+- Shell Arithmetic
+- Alias command
+And other things
